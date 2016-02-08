@@ -1,0 +1,1 @@
+<?php include( FW_PATH .'/modules/plugins/ui/tmpl-addons-list.php' ); ?>
